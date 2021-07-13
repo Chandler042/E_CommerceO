@@ -4,7 +4,7 @@ In this weeks hw we had to build the back end for a e-commerce site.
 
 repo link: https://github.com/Chandler042/E_CommerceO.git
 
-youtube demo link: 
+youtube demo link: https://www.youtube.com/watch?v=A1Kp2KisLU4
 
 
 
